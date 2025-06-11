@@ -1,7 +1,8 @@
 # 📊 Supervised Learning Projects
  
-تمام مدل‌ها با دیتاست واقعی [Body Performance Dataset (OpenML #560)](https://www.openml.org/d/560) آموزش داده شده‌اند و هر پروژه شامل مراحل کامل زیر است:
+تمام مدل‌های رگرسیونی با دیتاست واقعی [Body Performance Dataset (OpenML #560)](https://www.openml.org/d/560) و تمام مدل های کلسیفیکیشن با دیتا ست واقعی دیابت (OpemML #37) آموزش داده شده‌اند.
 
+پروژه های رگرسیونی به طور کلی شامل موارد زیر میباشند:
 - پاک‌سازی داده‌ها و حذف داده‌های پرت
 - مهندسی ویژگی (مثلاً محاسبه BMI)
 - ساخت پایپ‌لاین با `Pipeline`
@@ -22,6 +23,7 @@
 | 🧠 XGBoost Regressor | [XGBoostRegressor.ipynb](./XGBoostRegressor.ipynb) |
 | ⚡ LightGBM Regressor | [LightBoostRegressor.ipynb](./LightBoostRegressor.ipynb) |
 | 🐱 CatBoost Regressor | [CatBoostRegressor.ipynb](./CatBoostRegressor.ipynb) |
+|LogisticRegression |[LogisticRegression.ipynb](./LogisticRegression.ipynb)    |
 
 ---
 

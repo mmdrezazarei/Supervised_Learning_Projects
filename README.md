@@ -1,6 +1,8 @@
 # 📊 Supervised Learning Projects
  
 تمام مدل‌های رگرسیونی با دیتاست واقعی [Body Performance Dataset (OpenML #560)](https://www.openml.org/d/560) 
+مدل رگرسیون لجستیگ با دیستاست واقعی [diabetes (OpenML #37)](https://www.openml.org/d/37)
+مدل های کلسیفیکیشن با دیتاست واقعی [wine (OpenML #187)](https://www.openml.org/d/187)
 
 
 
@@ -18,7 +20,13 @@
 | ⚡ LightGBM Regressor | [LightBoostRegressor.ipynb](./LightBoostRegressor.ipynb) |
 | 🐱 CatBoost Regressor | [CatBoostRegressor.ipynb](./CatBoostRegressor.ipynb) |
 |LogisticRegression |[LogisticRegression.ipynb](./LogisticRegression.ipynb)    |
-
+|DecisionTreeClassifier|[DecisionTreeClassifier.ipynb](./DecisionTreeClassifier.ipynb)|
+|GradientBoostingClassifier|[GradientBoostingClassifier.ipynb](./GradientBoostingClassifier.ipynb)|
+|KNeighborsClassifier|[KNeighborsClassifier.ipynb](./KNeighborsClassifier.ipynb)|
+|LDA_PCA|[LDA_PCA.ipynb](./LDA_PCA.ipynb)|
+|RandomForestClassifier|[RandomForestClassifier.ipynb](./RandomForestClassifier.ipynb)|
+|SVC|[SVC.ipynb](./SVC.ipynb)|
+|XGBClassifier|[XGBClassifier.ipynb](./XGBClassifier.ipynb)|
 ---
 
 ## 📎 اطلاعات بیشتر
